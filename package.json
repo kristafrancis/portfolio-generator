@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kristafrancis/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^9.0.2"
+    "inquirer": "^8.2.4"
   }
 }
